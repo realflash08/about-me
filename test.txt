@@ -1,2 +1,3 @@
 new change
 on branch bug-1
+edit done on remote
